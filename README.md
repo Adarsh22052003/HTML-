@@ -10,3 +10,4 @@
 # Head Meta data
 # semantics
 # form
+# input type in form
